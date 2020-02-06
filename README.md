@@ -1,5 +1,4 @@
 # zadanie-po-markdown-i-git-Kate6661
-zadanie-po-markdown-i-git-Kate6661 created by GitHub Classroom
 ### <p align='center'> Герценовский университет Российский Государственный Педагогический Университет им. А. И. Герцена </p>
 #### <p align='center'> Кафедра информационных технологий и электронного обучения </p>
 # <p align='center'> **О КАФЕДРЕ** </p>
